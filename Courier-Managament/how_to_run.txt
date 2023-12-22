@@ -1,0 +1,8 @@
+The site is opened from this link, but data processing cannot be done. 
+To do this, db.pgerd and db.sql files need to be processed via postgre.
+In addition, it is necessary to run the backend files on an IDE.
+Site link is https://courier-management-project-estu-ceng.netlify.app/
+
+Note!
+There may be problems with the site in the link, you will need to "npm start" 
+from the terminal by entering the fronted project where we have the source file.
